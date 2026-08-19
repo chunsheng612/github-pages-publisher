@@ -1,0 +1,7 @@
+interface:
+  display_name: "網頁一鍵上線"
+  short_description: "把做好的靜態網站安全發布到 GitHub Pages"
+  default_prompt: "幫我檢查這個網站是否適合公開，確認安全後發布到 GitHub Pages，最後只告訴我可分享的網址與必要提醒。"
+
+policy:
+  allow_implicit_invocation: true
